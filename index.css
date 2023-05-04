@@ -37,12 +37,12 @@ main.hero {
 }
 
 .hero__content__title {
-    font-size: 36px;
+    font-size: 2rem;
     font-family: 'Krona One', sans-serif;
 }
 
 p.hero__content__description {
-    font-size: 18px;
+    font-size: 1rem;
     font-family: 'Montserrat', sans-serif;
 }
 
@@ -60,7 +60,7 @@ p.hero__content__description {
 
 .hero__links__title {
     font-family: 'Krona One', sans-serif;
-    font-size: 18px;
+    font-size: 1rem;
 }
 
 .hero__buttons {
@@ -96,7 +96,7 @@ footer {
     background-color: var(--main-color);
     height: 50px;
     font-family: 'Montserrat', sans-serif;
-    font-size: 14px;
+    font-size: 0.875rem;
     display: flex;
     justify-content: center;
     align-items: center;
